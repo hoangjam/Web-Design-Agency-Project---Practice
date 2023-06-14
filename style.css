@@ -48,6 +48,7 @@ h1 {
   .card{
     width: 100%;
     text-align: justify;
+    margin-bottom: 20px;
   }
   .card img{
     width: 100%;
